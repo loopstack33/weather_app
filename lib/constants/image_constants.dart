@@ -1,0 +1,25 @@
+const fastWind="assets/images/fastWind.png";
+const littleRain="assets/images/littleRain.png";
+const mildFast="assets/images/mildFast.png";
+const mildRain="assets/images/mildRain.png";
+const moonFast="assets/images/moonFast.png";
+const rainDrops="assets/images/rainDrops.png";
+const tornado="assets/images/Tornado.png";
+const zapCloud="assets/images/zapCloud.png";
+const zaps="assets/images/Zaps.png";
+const cloudMid="assets/images/cloudMid.png";
+const bigSnow="assets/images/bigSnow.png";
+const angledRain="assets/images/angledRain.png";
+const home="assets/images/home.svg";
+const notice="assets/images/notice.svg";
+const loc="assets/images/loc.svg";
+const person="assets/images/person.svg";
+const arrowLeft="assets/images/arrowLeft.svg";
+const notification="assets/images/notification.svg";
+const setting="assets/images/setting.svg";
+const setting4="assets/images/setting4.svg";
+
+const wind = "assets/images/wind.png";
+const wind2 = "assets/images/wind.svg";
+const drop = "assets/images/drop.svg";
+const cloudRain = "assets/images/cloudRain.svg";

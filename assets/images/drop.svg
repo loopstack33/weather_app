@@ -1,0 +1,21 @@
+<svg width="45" height="48" viewBox="0 0 45 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="filter0_f_9_393" x="18" y="2" width="23.1575" height="33.4673" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur_9_393"/>
+        </filter>
+        <filter id="filter1_f_9_393" x="0.398346" y="0.685059" width="44.4026" height="47.2056" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_9_393"/>
+        </filter>
+    </defs>
+<g filter="url(#filter0_f_9_393)">
+<path d="M29.5787 3.00001C30.5279 3.01056 40.1575 18.0456 40.1575 23.8886C40.1574 25.2778 39.8838 26.6534 39.3521 27.9369C38.8205 29.2203 38.0412 30.3865 37.0589 31.3688C35.0749 33.3526 32.3841 34.4671 29.5785 34.467C26.7728 34.467 24.0821 33.3524 22.0983 31.3684C20.1144 29.3845 18.9999 26.6937 19 23.888C19 18.0456 28.6296 2.98945 29.5787 3.00001Z" fill="#42A0F0"/>
+<g filter="url(#filter1_f_9_393)">
+<path d="M21.5129 27.8424C22.57 28.1655 23.9134 26.8361 24.5136 24.8731C25.1137 22.9101 24.7433 21.0567 23.6863 20.7336C22.6293 20.4104 21.2859 21.7398 20.6857 23.7028C20.0856 25.6659 20.4559 27.5192 21.5129 27.8424Z" fill="white"/>
+</g>
+</g>
+
+</svg>
